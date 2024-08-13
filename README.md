@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 This is Naveed Sultan
+
+Driven by a profound passion for technology and innovation, Naveed is an aspiring Electrical Engineer with a Master's degree from Chulalongkorn University, Thailand, specializing in Data Analytics. His academic and professional journey spans across continents, from the bustling streets of Pakistan to the historic campuses of Russia, culminating in the vibrant academic environment of Thailand and Japan. 
+
+With a Bachelor's in Information Technology from Khwaja Fareed University, where he graduated as a Gold Medalist, his foundation in computer science was solidified, further fueled by an insatiable curiosity for deep learning and artificial intelligence. His professional experience includes roles in examination supervision, and cutting-edge research in spectrometry data annotation, equipping him with a diverse skill set from meticulous data management to advanced technical competencies, he has demonstrated leadership and organizational prowess through roles as a class representative and conference organizer, recognized by prestigious awards like the ASEAN Scholarship and the Prime Minister Laptop Award. 
+
+As he continues to explore the limitless potential of AI in machine learning, deep learning, and image processing in healthcare and remote sensing, he seeks to connect with industry professionals and Professors from the same or related fields for PhD positions which will provide opportunities that challenge conventional wisdom, driving forward innovation and excellence.
+
+#### Expertise: Machine Learning, Deep Learning, Generative AI Models, Transformers for complex problems.
 
 <!--
 **naveedsultan587/naveedsultan587** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
